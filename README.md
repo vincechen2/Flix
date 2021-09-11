@@ -30,3 +30,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 Getting the poster images to show 
 
 Understanding the tableView functions
+
