@@ -41,7 +41,8 @@ Getting the poster images to be the correct proportions
 
 ### App Walkthrough GIF
 
-![ezgif com-video-to-gif-4](https://user-images.githubusercontent.com/68205883/132966159-ee474c06-c75b-43f4-bb54-cd1d86d9b54a.gif)
+![ezgif com-video-to-gif-6](https://user-images.githubusercontent.com/68205883/134000599-2501cbeb-d906-4905-95a4-85a243e59fcf.gif)
+
 
 
 
